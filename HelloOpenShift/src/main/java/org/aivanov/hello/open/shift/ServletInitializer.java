@@ -1,4 +1,4 @@
-package demo;
+package org.aivanov.hello.open.shift;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;

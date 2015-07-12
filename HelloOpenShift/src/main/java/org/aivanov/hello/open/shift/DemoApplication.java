@@ -1,4 +1,4 @@
-package demo;
+package org.aivanov.hello.open.shift;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
